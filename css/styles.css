@@ -1,7 +1,23 @@
 .dog1 {
-
+  width: 250px;
+  float:left;
+  border-radius: 75%;
+  border: 1px solid black;
 }
 
 .dog2 {
-  
+  width: 250px;
+  float:right;
+  border-radius: 75%;
+  border: 1px solid black;
+}
+
+.header {
+  text-align: center;
+}
+
+.main {
+  background-color: lightgreen;
+  border: 1px solid black;
+  padding-bottom: 25px;
 }
