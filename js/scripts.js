@@ -50,3 +50,11 @@ function reverseString(string) {
 text = reverseString(text);
 
 alert(text);
+
+jQuery("img.dog1").click(function() {
+  alert(userInput);
+})
+
+jQuery("img.dog2").click(function() {
+  alert(text);
+})
